@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Leanne Graham",
+        "age": 25,
+        "profession": "Software Developer"
+      },
+      {
+        "id": 2,
+        "img": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Ervin Howell",
+        "age": 30,
+        "profession": "Project Manager"
+      },
+      {
+        "id": 3,
+        "img": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Clementine Bauch",
+        "age": 28,
+        "profession": "UI/UX Designer"
+      },
+      {
+        "id": 4,
+        "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Patricia Lebsack",
+        "age": 26,
+        "profession": "Front-End Developer"
+      },
+      {
+        "id": 5,
+        "img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Chelsey Dietrich",
+        "age": 29,
+        "profession": "Data Scientist"
+      },
+      {
+        "id": 6,
+        "img": "https://images.pexels.com/photos/1382731/pexels-photo-1382731.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Dennis Schulist",
+        "age": 32,
+        "profession": "Cloud Architect"
+      },
+      {
+        "id": 7,
+        "img": "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Kurtis Weissnat",
+        "age": 27,
+        "profession": "AI Engineer"
+      },
+      {
+        "id": 8,
+        "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Nicholas Runolfsdottir",
+        "age": 31,
+        "profession": "Machine Learning Expert"
+      },
+      {
+        "id": 9,
+        "img": "https://images.pexels.com/photos/1898555/pexels-photo-1898555.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Glenna Reichert",
+        "age": 35,
+        "profession": "DevOps Engineer"
+      },
+      {
+        "id": 10,
+        "img": "https://images.pexels.com/photos/1791617/pexels-photo-1791617.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Clementina DuBuque",
+        "age": 24,
+        "profession": "Full Stack Developer"
+      },
+      {
+        "id": 11,
+        "img": "https://images.pexels.com/photos/845434/pexels-photo-845434.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Perry James",
+        "age": 29,
+        "profession": "Cybersecurity Specialist"
+      },
+      {
+        "id": 12,
+        "img": "https://images.pexels.com/photos/274595/pexels-photo-274595.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Kerry Hildegard",
+        "age": 33,
+        "profession": "IT Manager"
+      },
+      {
+        "id": 13,
+        "img": "https://images.pexels.com/photos/533570/pexels-photo-533570.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Javier Kiehn",
+        "age": 30,
+        "profession": "Blockchain Developer"
+      },
+      {
+        "id": 14,
+        "img": "https://images.pexels.com/photos/278730/pexels-photo-278730.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Norberto Rolfson",
+        "age": 28,
+        "profession": "Mobile App Developer"
+      },
+      {
+        "id": 15,
+        "img": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Eldridge Ullrich",
+        "age": 27,
+        "profession": "Systems Analyst"
+      },
+      {
+        "id": 16,
+        "img": "https://images.pexels.com/photos/109551/pexels-photo-109551.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Andres Crona",
+        "age": 34,
+        "profession": "Network Engineer"
+      },
+      {
+        "id": 17,
+        "img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Aleen Harber",
+        "age": 26,
+        "profession": "Database Administrator"
+      },
+      {
+        "id": 18,
+        "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Freeman Bins",
+        "age": 29,
+        "profession": "Frontend Developer"
+      },
+      {
+        "id": 19,
+        "img": "https://images.pexels.com/photos/1666779/pexels-photo-1666779.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Karley Bogan",
+        "age": 27,
+        "profession": "IT Support"
+      },
+      {
+        "id": 20,
+        "img": "https://images.pexels.com/photos/761115/pexels-photo-761115.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Joannie Mertz",
+        "age": 35,
+        "profession": "Tech Lead"
+      },
+      {
+        "id": 21,
+        "img": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Ruthie Mayer",
+        "age": 31,
+        "profession": "Backend Developer"
+      },
+      {
+        "id": 22,
+        "img": "https://img.freepik.com/free-photo/smiling-young-man-with-crossed-arms-outdoors_1140-255.jpg?uid=R155670905&ga=GA1.1.708556859.1726177266&semt=ais_hybrid",
+        "name": "Nick McGlynn",
+        "age": 28,
+        "profession": "Scrum Master"
+      },
+      {
+        "id": 23,
+        "img": "https://img.freepik.com/premium-photo/close-up-portrait-cheerful-happy-bearded-man-with-crossed-hands_274222-6066.jpg?uid=R155670905&ga=GA1.1.708556859.1726177266&semt=ais_hybrid",
+        "name": "Karson Frami",
+        "age": 30,
+        "profession": "QA Engineer"
+      },
+      {
+        "id": 24,
+        "img": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Tad Moen",
+        "age": 32,
+        "profession": "System Administrator"
+      },
+      {
+        "id": 25,
+        "img": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?uid=R155670905&ga=GA1.1.708556859.1726177266&semt=ais_hybrid",
+        "name": "Afton Quigley",
+        "age": 24,
+        "profession": "Cloud Engineer"
+      },
+      {
+        "id": 26,
+        "img": "https://images.pexels.com/photos/373632/pexels-photo-373632.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Vito Leuschke",
+        "age": 34,
+        "profession": "DevOps Lead"
+      }
+]
