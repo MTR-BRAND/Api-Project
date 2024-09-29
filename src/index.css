@@ -14,3 +14,23 @@ body {
   color: #ff00a2;
 }
 
+
+/* Webkit (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 60px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* background of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ff00a2; 
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin; 
+  scrollbar-color: #ff00a2 #f1f1f1; 
+}
